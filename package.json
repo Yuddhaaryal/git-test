@@ -1,0 +1,24 @@
+{
+  "name": "gitpackage",
+  "version": "1.0.0",
+  "description": "\"this package documents the depeedencies of git-test project\"",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuddhaaryal/git-test.git"
+  },
+  "author": "Yuddha aryal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuddhaaryal/git-test/issues"
+  },
+  "homepage": "https://github.com/Yuddhaaryal/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
